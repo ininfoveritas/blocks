@@ -1,0 +1,12 @@
+{
+    "_config_name": "block.custom.404",
+    "delta": "404",
+    "info": "iiv-404-1",
+    "title": "",
+    "description": "",
+    "body": {
+        "value": "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<figure class=\"wp-block-image size-large\"><img alt=\"\" src=\"https://ininfoveritas.fr/files/pagenotfound.png\" /></figure>\r\n</div>\r\n\r\n<div class=\"col-md-6\">\r\n<h2 style=\"\">Oops...</h2>\r\n\r\n<p style=\"\"><strong>Nous ne sommes pas en mesure de trouver la page que vous recherchez.</strong></p>\r\n\r\n<p style=\"\">La page que vous recherchez a été déplacée, supprimée, renommée ou n’a jamais existé.</p>\r\n</div>\r\n</div>\r\n",
+        "format": "full_html"
+    },
+    "default_langcode": "und"
+}
